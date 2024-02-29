@@ -1,0 +1,11 @@
+
+.welmessage{
+    font-size: 30px;
+    font-weight: 500;
+    font-family: "Permanent Marker", cursive;
+    color: rgb(225, 235, 241);
+    background-color: rgba(3, 46, 29, 0.519);
+    border: 1px solid black;
+    border-radius: 10px;
+    max-width: 25%;
+    }

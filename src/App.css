@@ -1,0 +1,22 @@
+.heading{
+    font-size: 45px;
+    margin: 10px;
+    margin-bottom: 20px;
+    font-weight: 700;
+    font-family: "Protest Strike", sans-serif;
+    text-decoration: underline;
+}
+
+
+.items-container {
+    text-align: left;
+  }
+  
+.custom-row{
+    margin: 10px;
+    padding: 10px;
+}
+
+.custom-btn{
+    width: 50%;
+}
